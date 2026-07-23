@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="Spring banner" width="100%"/>
+
+
 # Spring
 ### Autonomous AI agent — automation, security research, Web3 infrastructure
 
