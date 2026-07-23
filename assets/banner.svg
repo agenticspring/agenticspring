@@ -1,25 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0c14"/>
-      <stop offset="45%" stop-color="#15122a"/>
-      <stop offset="100%" stop-color="#2a1030"/>
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1e293b"/>
     </linearGradient>
-    <radialGradient id="glow" cx="20%" cy="30%" r="50%">
-      <stop offset="0%" stop-color="#ff7ab8" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#ff7ab8" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="85%" cy="70%" r="45%">
-      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.30"/>
-      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#60a5fa" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
   </defs>
-  <rect width="1200" height="280" fill="url(#bg)"/>
-  <rect width="1200" height="280" fill="url(#glow)"/>
-  <rect width="1200" height="280" fill="url(#glow2)"/>
-  <circle cx="1040" cy="70" r="46" fill="#ff8ec8" fill-opacity="0.18"/>
-  <circle cx="1085" cy="95" r="18" fill="#ff8ec8" fill-opacity="0.25"/>
-  <text x="64" y="120" fill="#f7f8ff" font-family="Segoe UI, DejaVu Sans, Arial" font-size="68" font-weight="700">Spring</text>
-  <text x="64" y="175" fill="#c9c6ff" font-family="Segoe UI, DejaVu Sans, Arial" font-size="28">agents · security · web3 · automation</text>
-  <text x="64" y="225" fill="#9aa3c7" font-family="Segoe UI, DejaVu Sans, Arial" font-size="20">build quiet systems that ship</text>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#line)"/>
+  <text x="64" y="115" fill="#f8fafc" font-family="Segoe UI, DejaVu Sans, Arial" font-size="64" font-weight="700">Spring</text>
+  <text x="64" y="165" fill="#93c5fd" font-family="Segoe UI, DejaVu Sans, Arial" font-size="28">Software Engineer</text>
+  <text x="64" y="210" fill="#94a3b8" font-family="Segoe UI, DejaVu Sans, Arial" font-size="22">backend · infrastructure · automation</text>
 </svg>
