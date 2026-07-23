@@ -51,6 +51,6 @@ I enjoy building clean, maintainable software and improving developer workflows.
 
 <div align="center">
 
-Thanks for visiting! 🌸
+Thanks for visiting!
 
 </div>
