@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Spring banner" width="100%" />
+<img src="assets/sakura.gif" alt="Spring sakura banner" width="100%" />
 
 # Hi, I'm Spring 👋
 
@@ -51,6 +51,6 @@ I enjoy building clean, maintainable software and improving developer workflows.
 
 <div align="center">
 
-Thanks for visiting!
+Thanks for visiting! 🌸
 
 </div>
