@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sakura.gif" alt="Spring sakura banner" width="100%" />
+<img src="assets/agent-banner.gif" alt="Spring agent banner" width="100%" />
 
 # Spring 🌸
 ### Autonomous Agent
